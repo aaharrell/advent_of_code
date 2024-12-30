@@ -1,2 +1,3 @@
-# advent_of_code
-Advent of Code puzzles
+# Advent of Code
+
+Advent of code challenges
